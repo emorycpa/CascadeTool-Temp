@@ -10,9 +10,9 @@ This project contains code for cascade tool. It currently mix up TypeScript and 
 
 For your reference, these graphs carries initial thoughts at the beginning of developing this tool. 
 
-<img src="./readme/Full Cycle Workflow - July 2017 Version - Page 1.png" height="300"/>
+<img src="./readme/Full Cycle Workflow - July 2017 Version - Page 1.png" width="800"/>
 <br/>
-<img src="./readme/Object Diagram - Page 1.png" width="600"/>
+<img src="./readme/Object Diagram - Page 1.png" width="800"/>
 <br/>
-<img src="./readme/Sequence%2FMethod Diagram - Page 1.png" width="600"/>
+<img src="./readme/Sequence_FMethod Diagram - Page 1.png" width="800"/>
 <br/>
