@@ -14,5 +14,5 @@ For your reference, these graphs carries initial thoughts at the beginning of de
 <br/>
 <img src="./readme/Object Diagram - Page 1.png" width="800"/>
 <br/>
-<img src="./readme/Sequence_FMethod Diagram - Page 1.png" width="800"/>
+<img src="./readme/Sequence_Method Diagram - Page 1.png" width="800"/>
 <br/>
