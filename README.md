@@ -1,12 +1,12 @@
-###Initial Note
+### Initial Note
 
 This project contains code for cascade tool. It currently mix up TypeScript and JavaScript code, so please feel free to re-write TypeScript code while referring JavaScript code. 
 
-###Reference Link
+### Reference Link
 
-- <a href="source/Old_ReadMe.md">Old Develop Note</a>: Please refer it for initial steps of running this tool
+- <a href="readme/Old_ReadMe.md">Old Develop Note</a>: Please refer it for initial steps of running this tool
 
-###Reference Graph
+### Reference Graph
 
 For your reference, these graphs carries initial thoughts at the beginning of developing this tool. 
 
